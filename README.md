@@ -72,7 +72,6 @@ If you'd like a specific example added to this repo (Terraform module, GitHub Ac
   
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=achyut777&show_icons=true&theme=transparent&hide_border=true&card_width=600)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=achyut777&layout=compact&theme=transparent&hide_border=true&card_width=600)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
